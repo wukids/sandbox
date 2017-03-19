@@ -93,19 +93,13 @@ rip = """
 """
 
 wordList = ["hello world",
-            "amy",
-            "joe",
-            "charlie",
-            "ryan",
-            "trish",
-            "oli",
             "dragon",
-            "computer",
+            "raspberry",
             "hangman",
             "what ever",
             "toothpaste",
             "big ben",
-            "hi"]
+            "pi"]
 
 
 def getNextWord():
